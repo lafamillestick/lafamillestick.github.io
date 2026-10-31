@@ -8,6 +8,8 @@ YouTube: [La Famille Stick](https://www.youtube.com/@LaFamilleStick) (FR) and [S
 
 TikTok and Instagram: @lafamillestick (FR) and @stickfamilysurvival (EN)
 
-[Privacy Policy](privacy-policy) | [Terms of Service](terms-of-service)
+English: [Privacy Policy](privacy-policy) | [Terms of Service](terms-of-service)
+
+Français : [Politique de confidentialité](confidentialite) | [Conditions générales et mentions légales](cgu)
 
 Contact: lafamillestick@gmail.com
